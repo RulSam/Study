@@ -109,9 +109,9 @@
 #         print("Done")
 #
 
-heads = 35  # количество голов
-legs = 94  # количество ног
-
+# heads = 35  # количество голов
+# legs = 94  # количество ног
+#
 # for r in range(heads + 1):  # количество кроликов
 #     for ph in range(heads + 1):  # количество фазанов
 #         #  если суммарное количество голов превышено или ног превышено, то переходим на следующий шаг цикла
@@ -122,7 +122,7 @@ legs = 94  # количество ног
 #             print("Количество кроликов", r)
 #             print("Количество фазанов", ph)
 #             print("---")
-n = 3
-def print_ladder(n):
-    return (1, n + 1)
-    print(print_ladder(n))
+# n = 3
+# def print_ladder(n):
+#     return (1, n + 1)
+#     print(print_ladder(n))
